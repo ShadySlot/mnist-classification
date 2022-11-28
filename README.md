@@ -47,8 +47,8 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 ## PROGRAM
 
 ```sh
-#Developed by: SARAN E
-#Registration number: 212219220045
+#Developed by: Nitish Kumar R
+#Registration number: 212219220036
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
